@@ -1,15 +1,15 @@
 {
-  "main.css": "/robofriends/static/css/main.b75b67da.chunk.css",
-  "main.js": "/robofriends/static/js/main.3b98fb9a.chunk.js",
-  "main.js.map": "/robofriends/static/js/main.3b98fb9a.chunk.js.map",
-  "runtime~main.js": "/robofriends/static/js/runtime~main.aedb4e53.js",
-  "runtime~main.js.map": "/robofriends/static/js/runtime~main.aedb4e53.js.map",
-  "static/css/2.a59c5e52.chunk.css": "/robofriends/static/css/2.a59c5e52.chunk.css",
-  "static/js/2.ea06ff8a.chunk.js": "/robofriends/static/js/2.ea06ff8a.chunk.js",
-  "static/js/2.ea06ff8a.chunk.js.map": "/robofriends/static/js/2.ea06ff8a.chunk.js.map",
-  "index.html": "/robofriends/index.html",
-  "precache-manifest.0899fa5cb7ad22ca05c96b33ecbb958f.js": "/robofriends/precache-manifest.0899fa5cb7ad22ca05c96b33ecbb958f.js",
-  "service-worker.js": "/robofriends/service-worker.js",
-  "static/css/2.a59c5e52.chunk.css.map": "/robofriends/static/css/2.a59c5e52.chunk.css.map",
-  "static/css/main.b75b67da.chunk.css.map": "/robofriends/static/css/main.b75b67da.chunk.css.map"
+  "main.css": "/facerecognitionbrain/static/css/main.b75b67da.chunk.css",
+  "main.js": "/facerecognitionbrain/static/js/main.be0e5657.chunk.js",
+  "main.js.map": "/facerecognitionbrain/static/js/main.be0e5657.chunk.js.map",
+  "runtime~main.js": "/facerecognitionbrain/static/js/runtime~main.a9fa71fd.js",
+  "runtime~main.js.map": "/facerecognitionbrain/static/js/runtime~main.a9fa71fd.js.map",
+  "static/css/2.a59c5e52.chunk.css": "/facerecognitionbrain/static/css/2.a59c5e52.chunk.css",
+  "static/js/2.ea06ff8a.chunk.js": "/facerecognitionbrain/static/js/2.ea06ff8a.chunk.js",
+  "static/js/2.ea06ff8a.chunk.js.map": "/facerecognitionbrain/static/js/2.ea06ff8a.chunk.js.map",
+  "index.html": "/facerecognitionbrain/index.html",
+  "precache-manifest.7ad7ef7f7a1fffef17a6196ea7a5c359.js": "/facerecognitionbrain/precache-manifest.7ad7ef7f7a1fffef17a6196ea7a5c359.js",
+  "service-worker.js": "/facerecognitionbrain/service-worker.js",
+  "static/css/2.a59c5e52.chunk.css.map": "/facerecognitionbrain/static/css/2.a59c5e52.chunk.css.map",
+  "static/css/main.b75b67da.chunk.css.map": "/facerecognitionbrain/static/css/main.b75b67da.chunk.css.map"
 }
