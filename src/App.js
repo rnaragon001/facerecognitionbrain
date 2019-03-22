@@ -109,7 +109,8 @@ class App extends Component {
     // app.models.predict(
     //   Clarifai.FACE_DETECT_MODEL, 
     //   this.state.input)
-      fetch('http://localhost:3000/imageurl', {
+      // fetch('http://localhost:3000/imageurl', {
+      fetch('https://sheltered-lake-21799.herokuapp.com/imageurl', {
         method: 'post',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
@@ -119,7 +120,8 @@ class App extends Component {
       .then(response => response.json())
       .then(response => {
         if (response) {
-          fetch('http://localhost:3000/image', {
+          // fetch('http://localhost:3000/image', {
+          fetch('https://sheltered-lake-21799.herokuapp.com/image', {
             method: 'put',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
